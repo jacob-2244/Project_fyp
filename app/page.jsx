@@ -61,7 +61,7 @@ const LandingPage = () => {
       <main>
         <section className="bg-white dark:bg-gray-900">
           <div className="max-w-screen-xl px-4 py-32 mx-auto text-center">
-            <h1 className="text-5xl font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white sm:text-6xl">Privacy-Preserving Eye Care </h1>
+            <h1 className="text-5xl font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white sm:text-6xl">Privacy-Preserving  Federated Eye Care </h1>
             <p className="mt-4 text-lg font-light text-gray-500 dark:text-gray-400">Get started with a free and open-source landing page built with Tailwind CSS.</p>
             <Link href="#" className="inline-flex items-center justify-center w-full px-4 py-3 mt-6 text-base font-medium text-white bg-purple-600 border border-transparent rounded-lg sm:w-auto hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-offset-2 dark:bg-purple-500 dark:hover:bg-purple-600">
               Get Started
